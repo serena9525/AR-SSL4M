@@ -43,11 +43,14 @@ monai==1.3.0
 ## Citation
 If you find this project useful, please consider citing:
 ```
-@article{wang2024autoregressive,
+@inproceedings{wang2025autoregressive,
   title={Autoregressive sequence modeling for 3d medical image representation},
   author={Wang, Siwen and Wang, Churan and Gao, Fei and Su, Lixian and Zhang, Fandong and Wang, Yizhou and Yu, Yizhou},
-  journal={arXiv preprint arXiv:2409.08691},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={8},
+  pages={7871--7879},
+  year={2025}
 }
 ```
 ## Acknowledgment
