@@ -1,8 +1,6 @@
-# AR-SSL4M
+# [AAAI 2025] Autoregressive Sequence Modeling for 3D Medical Image Representation
 
-## Autoregressive Sequence Modeling for 3D Medical Image Representation
-
-This is an official PyTorch implementation of our AAAI 2025 paper "[**Autoregressive Sequence Modeling for 3D Medical Image Representation**](https://arxiv.org/abs/2409.08691)".
+This is an official PyTorch implementation of "[**Autoregressive Sequence Modeling for 3D Medical Image Representation**](https://arxiv.org/abs/2409.08691)".
 <center> 
 <img src="assets/overview.png" width="85%" height="auto">
 </center>
